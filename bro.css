@@ -1,0 +1,9 @@
+body{background-color: black;}
+
+.center-title {
+  text-align: center;   /* centers the text horizontally */
+  font-size: 100px;      /* makes it big */
+  margin-top: 50px;     /* adds space from the top */
+}
+
+
